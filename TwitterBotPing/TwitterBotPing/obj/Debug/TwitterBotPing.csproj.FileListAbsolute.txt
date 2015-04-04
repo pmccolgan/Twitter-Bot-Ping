@@ -1,0 +1,14 @@
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\TwitterBotPing.exe
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\TwitterBotPing.pdb
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Common.Logging.Core.dll
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Common.Logging.dll
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Quartz.dll
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Common.Logging.pdb
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Common.Logging.xml
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Common.Logging.Core.pdb
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Common.Logging.Core.xml
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Quartz.pdb
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\bin\Debug\Quartz.xml
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\obj\Debug\TwitterBotPing.csprojResolveAssemblyReference.cache
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\obj\Debug\TwitterBotPing.exe
+C:\Users\498084\Documents\GitHub\Twitter-Bot-Ping\TwitterBotPing\TwitterBotPing\obj\Debug\TwitterBotPing.pdb
