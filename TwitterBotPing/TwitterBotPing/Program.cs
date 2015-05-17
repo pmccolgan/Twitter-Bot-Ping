@@ -59,7 +59,8 @@ namespace TwitterBotPing
 
                     // Specify the time of day the trigger fires, in UTC (9am),
                     // since CST is UTC-0600
-                    .StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(21, 35))
+                    // 21 35 translates as 22:20 in App Harbor time...
+                    .StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(7, 30))
 
                     // Specify the timezone
                     //
