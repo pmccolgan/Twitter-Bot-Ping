@@ -32,12 +32,21 @@ namespace TwitterBotPing
 
         private static void ScheduleJob()
         {
+            int hour;
+            int minutes;
+
+            var appHours = ConfigurationManager.AppSettings["HourTimeToPing"];
+            var appMinutes = ConfigurationManager.AppSettings["MinuteTimeToPing"];
+
+            int.TryParse(appHours, out hour);
+            int.TryParse(appMinutes, out minutes);
+
             var trigger = TriggerBuilder.Create()
                 .WithDescription("Ping URL every day at half past seven")
                 .WithDailyTimeIntervalSchedule(x => x
                     .WithIntervalInHours(24)
                     .OnEveryDay()
-                    .StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(7, 30))
+                    .StartingDailyAt(TimeOfDay.HourAndMinuteOfDay(hour, minutes))
                     .InTimeZone(TimeZoneInfo.Utc))
                 .Build();
 
