@@ -42,8 +42,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-*.user
-bin/
-obj/
-packages/
 *.suo
+*.user
+TwitterBotPing/TwitterBotPing/bin/
+TwitterBotPing/TwitterBotPing/obj/
+TwitterBotPing/TwitterBotPing/packages/
+packages/
